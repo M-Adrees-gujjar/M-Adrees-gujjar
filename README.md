@@ -32,6 +32,6 @@ Mailer for sending login details to students.
 - ⚡ I love exploring new tech and am always up for a coding challenge!
 
 ## Let's Connect!
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: madreesgujjar522@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-adrees-833210241/)
 - 🌐 [Portfolio](https://portfolio-azure-rho-19.vercel.app/)
