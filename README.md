@@ -1,4 +1,4 @@
-# Hi, I’m @M-Adrees-gujjar 👋
+# Hi, I’m Muhammad Adrees 👋
 
 ## About Me
 - 🎓 I have completed my graduation in BS Computer Science.
