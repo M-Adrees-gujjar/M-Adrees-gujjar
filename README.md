@@ -9,14 +9,14 @@
 
 ## Skills
 - **Languages:** JavaScript, HTML, CSS
-- **Frontend:** React, Redux, @headlessui/react, @heroicons/react
+- **Frontend:** React , Tailwind , BootStrap
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB
-- **Tools & Technologies:** Git, GitHub, Node Mailer
+- **Tools & Technologies:** Git, GitHub
 
 ## Projects
 - **Project 1:** Website Template Layout Design
-To create a website template layout ,I utilized my skills in HTML, CSS, SASS and Bootstrap.
+  To create a website template layout ,I utilized my skills in HTML, CSS, SASS and Bootstrap.
 - **Project 2:** Full-Stack CRUD Application with React.js, Node.js, and Local Storage
 Developed a full-stack CRUD application with a responsive user interface using React.js, styled with CSS and
 Tailwind. Implemented CRUD functionality with JavaScript and managed data with MongoDB and also local
